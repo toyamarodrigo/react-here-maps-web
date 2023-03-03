@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@here/maps-api-for-javascript": "^1.38.0",
     "@toyamarodrigo/react-here-maps": "^0.1.7",
     "dotenv": "^16.0.3",
     "react": "^18.2.0",
